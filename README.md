@@ -1,16 +1,12 @@
-### Hi there 👋
+### Привет, меня зовут Соня 👋
 
-<!--
-**klmvsn/klmvsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий фронтенд разработчик
+Стремлюсь к работе в интересных проектах с крутыми опытными коллегами
+Одинаково люблю верстку и разработку логики
 
-Here are some ideas to get you started:
+### Мой стек
+HTML, CSS, Sass, JavaScript, React, Redux, БЭМ
+Хочу осваивать новые технологии и фреймворки!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Связаться со мной
+[Телеграм](https://t.me/klmvsn)
