@@ -5,7 +5,8 @@
 Одинаково люблю верстку и разработку логики
 
 ### Мой стек
-HTML, CSS, Sass, JavaScript, React, Redux, БЭМ<br>
+HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, БЭМ<br>
+Умею тестировать с помощью Jest и Cypress, а также работаю с бэкендом на Node на базовом уровне
 Хочу осваивать новые технологии и фреймворки!
 
 ### Связаться со мной
